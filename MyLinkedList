@@ -1,0 +1,7 @@
+MyLinkedList/
+│
+├── my_linked_list/
+│   ├── __init__.py
+│   └── linked_list.py
+│
+└── setup.py
